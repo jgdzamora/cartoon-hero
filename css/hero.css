@@ -1,0 +1,68 @@
+html, body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #abd5ec;
+	padding: 40px;
+	text-align: center
+}
+
+h1 {
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 174px;
+	width: 300px;
+	border: 24px solid #ffffff;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 28px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #cccccc;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Rick Sanchez</h1>
+		</header>*/
