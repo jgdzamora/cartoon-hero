@@ -9,11 +9,12 @@ header{
 	text-align: center;
 	background-image: url('http://orig09.deviantart.net/3f01/f/2015/306/9/f/9f3904ae848fecd454a2688b31c17a04-d9f9vwy.png');
 	background-size: cover;
+	background-position: center;
 }
 
 h1 {
 	font-size: 90px;
-	color: #000000;
+	color: #A2F2E8;
 	font-family: 'Bangers', cursive;
 }
 
