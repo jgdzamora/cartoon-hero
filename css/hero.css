@@ -6,7 +6,8 @@ html, body {
 header{
 	background-color: #abd5ec;
 	padding: 40px;
-	text-align: center
+	text-align: center;
+	font-family: 'Bangers', cursive;
 }
 
 h1 {
