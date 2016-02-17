@@ -4,17 +4,17 @@ html, body {
 }
 
 header{
-	background-color: #abd5ec;
-	padding: 40px;
+	padding: 15px;
 	text-align: center;
 	background-image: url('http://orig09.deviantart.net/3f01/f/2015/306/9/f/9f3904ae848fecd454a2688b31c17a04-d9f9vwy.png');
-	background-size: cover;
-	background-position: center;
+	background-size: 350%;
+	background-position: bottom;
+	line-height: 2px;
 }
 
 h1 {
 	font-size: 90px;
-	color: #A2F2E8;
+	color: #F4C53F;
 	font-family: 'Bangers', cursive;
 }
 
@@ -47,7 +47,7 @@ ul{
 }
 
 a {
-	color: #A2F2E8;
+	color: #A674AB;
 	text-decoration: none;
 }
 
@@ -64,6 +64,14 @@ footer ul{
 footer ul li{
 	display: inline-block;
 	margin: 0 5px;
+}
+
+a:visited {
+	color: #DF7FA6;
+}
+
+a:hover {
+	color: #638938;
 }
 
 /*<header>
